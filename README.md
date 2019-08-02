@@ -38,3 +38,7 @@
 
 ### Create a branch
 ```git branch -m <name>```
+
+### Merge and push the update to master
+```git merge <branch name>```
+```git push origin master```
