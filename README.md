@@ -41,4 +41,4 @@
 
 ### Merge and push the update to master
 ```git merge <branch name>```
-```git push origin master```
+```git push origin/master```
