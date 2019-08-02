@@ -35,3 +35,6 @@
 
 ### Clone or Download a repository
 ```git clone <url>```
+
+### Create a branch
+```git branch -m <name>```
