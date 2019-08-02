@@ -35,3 +35,6 @@
 
 ### Clone or Download a repository
 ```git clone <url>```
+
+### Pull a repository update
+```git pull```
