@@ -32,3 +32,6 @@
 
 ### Push to a repository
 ```git push -u <name> <branch>```
+
+### Clone or Download a repository
+```git clone <url>```
